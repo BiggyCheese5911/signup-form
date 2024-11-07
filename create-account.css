@@ -1,0 +1,94 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+}
+
+body{
+    background-color: #eee;
+}
+
+.container{
+    background-color: white;
+    border-radius: 10px;
+    width: 40%;
+    margin-top: 20px;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    padding: 20px;
+}
+
+.labels{
+    margin: 10px;
+    font-size: 1.3em;
+    padding: 30px;
+}
+
+#name{
+    margin-top: 10px;
+    font-size: 1em;
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+#mail{
+    margin-top: 10px;
+    font-size: 1em;
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+#pass{
+    margin-top: 10px;
+    font-size: 1em;
+    width: 100%;
+    border-radius: 5px;
+}
+
+#role{
+    font-size: 1em;
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+#ps{
+    font-size: 0.75em;
+    color: darkgrey;
+    margin-bottom: 30px;
+}
+
+#bio{
+    font-size: 1em;
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+#bo{
+    font-size: 0.75em;
+    color: darkgrey;
+    margin-bottom: 30px;
+}
+
+#ca{
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    background-color: slateblue;
+    width: 100%;
+}
+
+textarea{
+    width:100%;
+    resize:vertical;
+}
